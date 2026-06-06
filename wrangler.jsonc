@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "terra-conflict",
+	"name": "terra-conflict-1",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-04-30",
 	"observability": {
